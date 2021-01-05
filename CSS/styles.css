@@ -1,0 +1,23 @@
+  body {
+    background-color: seashell;
+  }
+
+  h1 {
+    color: #2d6187;
+    font-family: "Pacifico";
+    font-size: 50px;
+  }
+
+  h3 {
+    color: #2d6187;
+  }
+
+  hr {
+    border-style: none;
+    background-color: transparent;
+    border-color: #9ba4b4;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 50px;
+    width: 80px;
+  }
